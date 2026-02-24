@@ -1,5 +1,4 @@
-// See https://aka.ms/new-console-template for more information
-using System.Security.Principal;
+
 
 Pentagon p1 = new Pentagon();
 Pentagon p2 = new Pentagon(5);
